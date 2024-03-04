@@ -16,7 +16,7 @@ allows users to run alpaca models on their local machine.
 # Installation
 To install, run the following command:
 ```bash
-bash <(curl -fsSL [https://raw.githubusercontent.com/vital121/FreedomGPT/dev/install.sh]
+bash <(curl -fsSL [https://raw.githubusercontent.com/vital121/FreedomGPT/dev/install.sh])
 ```
 
 
